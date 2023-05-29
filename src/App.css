@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Prompt&display=swap");
+
+.active-main {
+	display: flex;
+}
+
+.active-li {
+	position: relative;
+	overflow: hidden;
+}
+
+.active-li::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 1px;
+	background: #0063f8;
+	animation: border-bootom-active 0.3s ease-in-out forwards;
+}
+
+.border-under-h1 {
+	position: relative;
+}
+
+.border-under-h1::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 1px;
+	background: #0063f8;
+}
+
+@keyframes border-bootom-active {
+	0% {
+		transform: translateX(-100%);
+	}
+	100% {
+		transform: translateX(0);
+	}
+}
