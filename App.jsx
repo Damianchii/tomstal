@@ -4,6 +4,8 @@ import { Videosection } from './components/Videosection'
 import { Aboutus } from './components/Aboutus'
 import { RealizGallery } from './components/RealizGallery'
 import { TraitsSection } from './components/TraitsSection'
+import { EmailSection } from './components/EmailSection'
+import { Contact } from './components/Contact'
 
 function App() {
 	return (
@@ -13,6 +15,8 @@ function App() {
 			<Aboutus />
 			<RealizGallery />
 			<TraitsSection />
+			<EmailSection />
+			<Contact />
 		</>
 	)
 }

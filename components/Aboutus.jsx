@@ -59,7 +59,7 @@ export const Aboutus = () => {
 					<h1 className='show-h1-animation border-under-h1 py-1 font-prompt text-2xl font-bold tracking-wide md:text-3xl'>
 						Doświadczenie.
 					</h1>
-					<div className='px-4 py-4 text-sm md:px-6 md:text-xl'>
+					<div className='px-4 py-4 text-sm md:px-6 md:text-lg'>
 						<p>
 							Jesteśmy doświadczoną firmą zajmującą się wkładami kominowymi od ponad 20 lat. Nasza pasja i długoletnie
 							doświadczenie sprawiają, że jesteśmy liderem w branży. Z dumą dostarczamy wysokiej jakości wkłady
@@ -85,7 +85,7 @@ export const Aboutus = () => {
 					<h1 className='show-h1-animation border-under-h1 py-1 font-prompt text-2xl font-bold tracking-wide md:text-3xl'>
 						Realizacja.
 					</h1>
-					<div className='px-4 py-4 text-sm md:px-6 md:text-xl'>
+					<div className='px-4 py-4 text-sm md:px-6 md:text-lg'>
 						<p>
 							Nasza firma ma bogate doświadczenie w realizacji projektów związanych z wkładami kominowymi. Dzięki
 							naszemu profesjonalnemu podejściu i wysokiej jakości produktom, zapewniamy skuteczne i bezproblemowe
@@ -112,7 +112,7 @@ export const Aboutus = () => {
 					<h1 className='show-h1-animation border-under-h1 py-1 font-prompt text-2xl font-bold tracking-wide md:text-3xl'>
 						Gwarancja.
 					</h1>
-					<div className='px-4 py-4 text-sm md:px-6 md:text-xl'>
+					<div className='px-4 py-4 text-sm md:px-6 md:text-lg'>
 						<p>
 							Jako firma specjalizująca się w wkładach kominowych, oferujemy naszym klientom solidną gwarancję na nasze
 							produkty i usługi. Zdajemy sobie sprawę, jak istotne jest zapewnienie niezawodności, bezpieczeństwa i
@@ -140,7 +140,7 @@ export const Aboutus = () => {
 					<h1 className='show-h1-animation border-under-h1 py-1 font-prompt text-2xl font-bold tracking-wide md:text-3xl'>
 						Materiały.
 					</h1>
-					<div className='px-4 py-4 text-sm md:px-6 md:text-xl'>
+					<div className='px-4 py-4 text-sm md:px-6 md:text-lg'>
 						<p>
 							Nasza firma składa dużą wagę na jakość materiałów używanych do produkcji wkładów kominowych. Dążymy do
 							zapewnienia naszym klientom produktów, które są trwałe, niezawodne i spełniają najwyższe standardy
